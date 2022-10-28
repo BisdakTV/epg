@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<channel id="HunterXHunter"><display-name>Hunter X Hunter</display-name><icon src="https://static.bunnycdn.ru/i/cache/images/2018/04/a027cea51dd4df76c70ebf8ea93a8d75.jpg"/><url>https://9anime.gs//</url></channel>
-<programme start="20221028050700 +0000" stop="20221028090000 +0000" channel="HunterXHunter">
-    <title lang="en">Hunter X Hunter</title>
-    <desc>Hunters devote themselves to accomplishing hazardous tasks, all from traversing the world's uncharted territories to locating rare items and monsters. Before becoming a Hunter, one must pass the Hunter Examination—a high-risk selection process in which most applicants end up handicapped or worse, deceased.Ambitious participants who challenge the notorious exam carry their own reason. What drives 12-year-old Gon Freecss is finding Ging, his father and a Hunter himself. Believing that he will meet his father by becoming a Hunter, Gon takes the first step to walk the same path.During the Hunter Examination, Gon befriends the medical student Leorio Paladiknight, the vindictive Kurapika, and ex-assassin Killua Zoldyck. While their motives vastly differ from each other, they band together for a common goal and begin to venture into a perilous world.</desc>
-  </programme>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="none" generator-info-url="none">
+<channel id="HunterXHunter.ph">
+	<display-name>Hunter X Hunter</display-name>
+	<icon src="https://static.bunnycdn.ru/i/cache/images/2018/04/a027cea51dd4df76c70ebf8ea93a8d75.jpg"/>
+	<url>https://9anime.gs/</url>
+</channel>
+<programme channel="HunterXHunter.ph">
+   	<title lang="en">Departure x and x friends</title>
+ 	<desc>Hinuli ng labindalawang taong gulang na si Gon Freecss ang halimaw na isda ng Whale Island, ang "Master of the Swamp," upang makakuha ng pahintulot mula sa kanyang nag-aatubili na "tiya" na si Mito na kumuha ng Hunter Exam. Sakay ng barko papunta sa Hunter Exam, nakilala ni Gon sina Leorio at Kurapika.
+</tv>
