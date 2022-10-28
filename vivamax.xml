@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="none" generator-info-url="none">
+<channel id="BahayNaPula.ph">
+	<display-name lang="ph">Bahay na pula</display-name>
+	<icon src="https://pinoyflix.to/wp-content/uploads/2022/02/wCW3FtecU0EqOakFDJxvOVCodbr-200x300.jpg"/>
+	<url>https://pinoyflix.to</url>
+</channel>
+<programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="BahayNaPula.ph">
+	<title lang="en">A woman and her husband come home to an old ancestral house she inherited from her grandma. As days go by, they realize something evil is living with them in the house.</title>
+</programme>
+</tv>
