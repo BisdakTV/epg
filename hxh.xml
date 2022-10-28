@@ -8,9 +8,7 @@
 	<url>https://9anime.gs</url>
 </channel>
 <programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="Episode1.ph">
-   	<title lang="en">Hinuli ng labindalawang taong gulang na si Gon Freecss ang halimaw na isda ng Whale Island, ang "Master of the Swamp," upang makakuha ng pahintulot mula sa kanyang nag-aatubili na "tiya" na si Mito na kumuha ng Hunter Exam. Sakay ng barko papunta sa Hunter Exam, nakilala ni Gon sina Leorio at Kurapika.</title>
-	<desc lang="en"/>
-	<category lang="en"/>
+	<title lang="en">Departure and Friends</title>
 </programme>
 
 <channel id="Episode2.ph">
@@ -19,9 +17,7 @@
 	<url>https://9anime.gs</url>
 </channel>
 <programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="Episode2.ph">
-   	<title lang="en">If Gon, Leorio, and Kurapika cannot answer an old woman's question correctly, they will be immediately disqualified.</title>
-	<desc lang="en"/>
-	<category lang="en"/>
+   	<title lang="ph">Test of Test</title>
 </programme>
 	
 <channel id="Episode3.ph">
@@ -30,8 +26,78 @@
 	<url>https://9anime.gs</url>
 </channel>
 <programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="Episode3.ph">
-   	<title lang="en">Gon, Kurapika, and Leorio arrive at Zaban City, the venue of the Hunter Exam, where they meet Tonpa another friendly veteran examiners.</title>
-	<desc lang="en"/>
-	<category lang="en"/>
+   	<title lang="ph">Rivals for Survival</title>
+</programme>
+	
+<channel id="Episode4.ph">
+	<display-name lang="ph">Hope and Ambition</display-name>
+	<icon src="https://static.bunnycdn.ru/i/cache/images/2018/04/a027cea51dd4df76c70ebf8ea93a8d75.jpg"/>
+	<url>https://9anime.gs</url>
+</channel>
+<programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="Episode4.ph">
+   	<title lang="ph">Home and Ambition</title>
+</programme>
+	
+<channel id="Episode5.ph">
+	<display-name lang="ph">Hisoka is Sneaky</display-name>
+	<icon src="https://static.bunnycdn.ru/i/cache/images/2018/04/a027cea51dd4df76c70ebf8ea93a8d75.jpg"/>
+	<url>https://9anime.gs</url>
+</channel>
+<programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="Episode5.ph">
+   	<title lang="ph">Hisoka is Sneaky</title>
+</programme>
+	
+<channel id="Episode6.ph">
+	<display-name lang="ph">A Surprising Challenge</display-name>
+	<icon src="https://static.bunnycdn.ru/i/cache/images/2018/04/a027cea51dd4df76c70ebf8ea93a8d75.jpg"/>
+	<url>https://9anime.gs</url>
+</channel>
+<programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="Episode6.ph">
+   	<title lang="ph">A Surprising Challenge</title>
+</programme>
+
+<channel id="Episode7.ph">
+	<display-name lang="ph">Showdown on the Airship</display-name>
+	<icon src="https://static.bunnycdn.ru/i/cache/images/2018/04/a027cea51dd4df76c70ebf8ea93a8d75.jpg"/>
+	<url>https://9anime.gs</url>
+</channel>
+<programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="Episode7.ph">
+   	<title lang="ph">Showdown on the Airship</title>
+</programme>
+	
+<channel id="Episode8.ph">
+	<display-name lang="ph">Solution is Majority Rules?</display-name>
+	<icon src="https://static.bunnycdn.ru/i/cache/images/2018/04/a027cea51dd4df76c70ebf8ea93a8d75.jpg"/>
+	<url>https://9anime.gs</url>
+</channel>
+<programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="Episode8.ph">
+   	<title lang="ph">Solution is Majority Rules?</title>
+</programme>
+	
+<channel id="Episode9.ph">
+	<display-name lang="ph">Beware of Prisoners</display-name>
+	<icon src="https://static.bunnycdn.ru/i/cache/images/2018/04/a027cea51dd4df76c70ebf8ea93a8d75.jpg"/>
+	<url>https://9anime.gs</url>
+</channel>
+<programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="Episode9.ph">
+   	<title lang="ph">Beware of Prisoners</title>
+</programme>
+	
+<channel id="Episode10.ph">
+	<display-name lang="ph">Trick to the Trick</display-name>
+	<icon src="https://static.bunnycdn.ru/i/cache/images/2018/04/a027cea51dd4df76c70ebf8ea93a8d75.jpg"/>
+	<url>https://9anime.gs</url>
+</channel>
+<programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="Episode10.ph">
+   	<title lang="ph">Trick to the Trick</title>
+</programme>
+	
+<channel id="Episode11.ph">
+	<display-name lang="ph">Trouble with the Gamble</display-name>
+	<icon src="https://static.bunnycdn.ru/i/cache/images/2018/04/a027cea51dd4df76c70ebf8ea93a8d75.jpg"/>
+	<url>https://9anime.gs</url>
+</channel>
+<programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="Episode11.ph">
+   	<title lang="ph">Trouble with the Gamble</title>
 </programme>
 </tv>
