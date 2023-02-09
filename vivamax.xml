@@ -464,7 +464,7 @@
 </tv>
 
 <tv generator-info-name="none" generator-info-url="none">
-<channel id="KaraKrusKaraKrus.ph">
+<channel id="KaraKrus.ph">
 	<display-name lang="ph"></display-name>
 	<icon src=""/>
 	<url>https://pinoyflix.to</url>
@@ -823,6 +823,17 @@
 </channel>
 <programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="Nightbird.ph">
 	<title lang="en">In a party arranged by friends, Rachel meets four men. The night full of booze and drugs turns chaotic when the men sexually assault Rachel and her friends. Rachel vows to seek vengeance no matter what it takes.</title>
+</programme>
+</tv>
+
+<tv generator-info-name="none" generator-info-url="none">
+<channel id="TagInit.ph">
+	<display-name lang="ph"></display-name>
+	<icon src=""/>
+	<url>https://pinoyflix.to</url>
+</channel>
+<programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="TagInit.ph">
+	<title lang="en">During his summer vacation, Martin meets two women that would let him explore his manhood - Adele, the politician's kept woman, and Nadine, the sexually-active Manila girl.</title>
 </programme>
 </tv>
 
