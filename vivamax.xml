@@ -783,6 +783,50 @@
 </tv>
 
 <tv generator-info-name="none" generator-info-url="none">
+<channel id="Panibugho.ph">
+	<display-name lang="ph"></display-name>
+	<icon src=""/>
+	<url>https://pinoyflix.to</url>
+</channel>
+<programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="Panibugho.ph">
+	<title lang="en">Story about three sisters and one man. Set in the late 90's, a story of love, hatred and jealousy unfolds when a stranger suddenly enters the lives of three sisters.</title>
+</programme>
+</tv>
+
+<tv generator-info-name="none" generator-info-url="none">
+<channel id="ExpensiveCandy.ph">
+	<display-name lang="ph"></display-name>
+	<icon src=""/>
+	<url>https://pinoyflix.to</url>
+</channel>
+<programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="ExpensiveCandy.ph">
+	<title lang="en">Candy is a sex worker. A poor teacher, Toto (Carlo Aquino), falls in love with her and she becomes his motivation to work hard.</title>
+</programme>
+</tv>
+
+<tv generator-info-name="none" generator-info-url="none">
+<channel id="Always.ph">
+	<display-name lang="ph"></display-name>
+	<icon src=""/>
+	<url>https://pinoyflix.to</url>
+</channel>
+<programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="Always.ph">
+	<title lang="en">An ex-boxer and telemarketer find love again after a lifetime apart.</title>
+</programme>
+</tv>
+
+<tv generator-info-name="none" generator-info-url="none">
+<channel id="Nightbird.ph">
+	<display-name lang="ph"></display-name>
+	<icon src=""/>
+	<url>https://pinoyflix.to</url>
+</channel>
+<programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="Nightbird.ph">
+	<title lang="en">In a party arranged by friends, Rachel meets four men. The night full of booze and drugs turns chaotic when the men sexually assault Rachel and her friends. Rachel vows to seek vengeance no matter what it takes.</title>
+</programme>
+</tv>
+
+<tv generator-info-name="none" generator-info-url="none">
 <channel id=".ph">
 	<display-name lang="ph"></display-name>
 	<icon src=""/>
