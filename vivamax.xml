@@ -838,6 +838,28 @@
 </tv>
 
 <tv generator-info-name="none" generator-info-url="none">
+<channel id="LaQuerida.ph">
+	<display-name lang="ph"></display-name>
+	<icon src=""/>
+	<url>https://pinoyflix.to</url>
+</channel>
+<programme start="19990101000000 +0000" stop="20500101000000 +0000" channel="LaQuerida.ph">
+	<title lang="en">A young couple's romance is cut short when the man learns that his woman is married. Meanwhile, an unhappily married husband meets a lonely teacher and they share an illicit affair.</title>
+</programme>
+</tv>
+
+<tv generator-info-name="none" generator-info-url="none">
+<channel id=".ph">
+	<display-name lang="ph"></display-name>
+	<icon src=""/>
+	<url>https://pinoyflix.to</url>
+</channel>
+<programme start="19990101000000 +0000" stop="20500101000000 +0000" channel=".ph">
+	<title lang="en"></title>
+</programme>
+</tv>
+
+<tv generator-info-name="none" generator-info-url="none">
 <channel id=".ph">
 	<display-name lang="ph"></display-name>
 	<icon src=""/>
